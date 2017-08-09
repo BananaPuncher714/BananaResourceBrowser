@@ -1,0 +1,8 @@
+name: BananaResourceBrowser
+main: io.github.bananapuncher714.SpigotResourcesMain
+version: 3.0
+author: BananaPuncher714
+depend: [BananaInventoryAPI]
+commands:
+    resources:
+        description: Opens the Banana Resource Browser
